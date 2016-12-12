@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+@import "layouts/_footer.scss";
+@import "layouts/_header.scss";

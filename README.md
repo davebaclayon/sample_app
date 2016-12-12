@@ -1,5 +1,12 @@
 # README
 
+San Carlos Blog Application. This is in development mode.
+Submitted by: Christian Dave B. Baclayon
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
